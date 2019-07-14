@@ -1,5 +1,4 @@
-## A Not-so-short Introduction to DMD
+## A Not So Short Introduction to DMD
 
-Notes and codes used during the summer lecture series in School of Mathematics at University of Bristol.
-
+Collection of notes and codes used during the summer lecture series in Stephen Wiggins group at School of Mathematics, University of Bristol. 
 
